@@ -1,7 +1,7 @@
 ### Hey, I'm Lucas Oliveira
 
 - 💼 Systems technical support
-- 📚  Graduating from computer science course
+- 📚  Undergraduate from computer science course
 - 📘 Learning about Web development
 - 🎯 Focused in still discovering
 - 📌 Living in Salvador, Bahia, Brazil
