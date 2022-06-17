@@ -1,8 +1,10 @@
-### Olá! Meu nome é Lucas
+### Hey, I'm Lucas Oliveira
 
-- 🔭 Hoje trabalho com suporte de sistemas
-- 🌱 Estudante de CC e front end development
-- 📫 Contate-me no email: lucasmacedo646@gmail.com
+- 💼 Systems technical support
+- 📚  Graduating from computer science course
+- 📘 Learning about Web development
+- 🎯 Focused in still discovering
+- 📌 Living in Salvador, Bahia, Brazil
   
 <div>
   <a href="https://github.com/LucasOllis">
