@@ -1,3 +1,11 @@
+### Ei, eu sou Lucas Oliveira
+
+- 💼 Suporte técnico de sistemas
+- 📚 Graduando do curso de ciência da computação
+- 📘 Aprendendo sobre desenvolvimento Web
+- 🎯 Focado em ainda descobrir
+- 📌 Morando em Salvador, Bahia, Brasil
+
 ### Hey, I'm Lucas Oliveira
 
 - 💼 Systems technical support
