@@ -5,7 +5,7 @@
 - 📘 Aprendendo sobre desenvolvimento Web
 - 🎯 Focado em ainda descobrir
 - 📌 Morando em Salvador, Bahia, Brasil
-- 
+ 
 <div>
   <a href="https://github.com/LucasOllis">
    <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOllis&layout=compact&langs_count=7&theme=dark"/>
