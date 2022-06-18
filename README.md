@@ -6,13 +6,13 @@
 - 🎯 Focado em ainda descobrir
 - 📌 Morando em Salvador, Bahia, Brasil
 
-### Hey, I'm Lucas Oliveira
+### (Hey, I'm Lucas Oliveira
 
 - 💼 Systems technical support
 - 📚 Graduating from computer science course
 - 📘 Learning about Web development
 - 🎯 Focused in still discovering
-- 📌 Living in Salvador, Bahia, Brazil
+- 📌 Living in Salvador, Bahia, Brazil)
   
 <div>
   <a href="https://github.com/LucasOllis">
