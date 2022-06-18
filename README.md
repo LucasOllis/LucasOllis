@@ -5,15 +5,7 @@
 - 📘 Aprendendo sobre desenvolvimento Web
 - 🎯 Focado em ainda descobrir
 - 📌 Morando em Salvador, Bahia, Brasil
-
-### (Hey, I'm Lucas Oliveira
-
-- 💼 Systems technical support
-- 📚 Graduating from computer science course
-- 📘 Learning about Web development
-- 🎯 Focused in still discovering
-- 📌 Living in Salvador, Bahia, Brazil)
-  
+- 
 <div>
   <a href="https://github.com/LucasOllis">
    <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasOllis&layout=compact&langs_count=7&theme=dark"/>
